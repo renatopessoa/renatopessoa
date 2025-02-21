@@ -1,8 +1,17 @@
 ## Renato Pessoa
 
-Me chamo Renato Pessoa, tenho 43 anos e sou natural de Recife-PE. Baicharel em Analise e desenvolvimento de software pela Estácio. Sou apaixonado por tecnologia e compartilho meu conhecimento através das minhas redes sociais mais especificamente Threads, com o perfil chamado "_renattoh_". 
+Me chamo Renato Pessoa, tenho 43 anos e sou natural de Recife-PE. 
 
-### 🤖 Linguagens e Tecnologias
+Sou um profissional de Tecnologia da Informação com uma trajetória sólida e diversificada na área. Iniciei minha jornada acadêmica em 2006, cursando Sistemas de Informação na Faculdade Maurício de Nassau. Já no segundo período da graduação, em 2007, ingressei no mercado como estagiário em desenvolvimento de software, onde atuei por quatro anos com Java, adquirindo experiência prática e aprofundando meus conhecimentos por meio de cursos do nível básico ao avançado.
+
+Minha evolução profissional me levou a assumir posições de maior responsabilidade ao longo dos anos. Passei pelos cargos de Analista de Sistemas Júnior, Pleno e Sênior, além de ter atuado como Coordenador de Suporte de TI. Posteriormente, ampliei meu escopo de atuação como Gerente de Projetos, até alcançar a posição de Gerente de TI.
+
+Ao longo da minha carreira, participei da implantação de sistemas ERP e sistemas hospitalares das empresas MV e TOTVS RM, atuando na gestão de projetos, integração de sistemas e otimização de processos para diferentes setores.
+
+Com experiência abrangente em desenvolvimento de software, gestão de equipes, suporte técnico e liderança estratégica, trago uma visão holística da área de tecnologia, aliando conhecimento técnico à capacidade de gestão e inovação.
+
+### 
+🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
